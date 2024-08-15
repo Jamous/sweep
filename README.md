@@ -6,6 +6,9 @@ Compiled binaries are located under bin/
 
 Sweep implements Pingsweep, which you can see here. https://github.com/Jamous/pingsweep
 
+Video
+https://www.youtube.com/watch?v=SvIUSOy-Suc
+
 Options
 -------
 You can specify the network you want to ping in CIRD notation.
